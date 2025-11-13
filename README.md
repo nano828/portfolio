@@ -34,7 +34,6 @@ PhD in Physics with strong expertise in computational modeling and statistical a
 #### BSc, Physics – Lebanese University | 2008
 
 ### CERTIFICATIONS
-- Pricing Options with Mathematical Models – Caltech (2025)
 - Financial Engineering & Risk Management – Columbia University (2025)
 - Finance & Quantitative Modeling – University of Pennsylvania (2025)
 - Machine Learning – Stanford/DeepLearning.AI (2024)
