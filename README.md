@@ -29,9 +29,9 @@ PhD in Physics with strong expertise in computational modeling and statistical a
 - Authored peer-reviewed publications and presented complex quantitative results to technical audiences.
 
 ### EDUCATION
-- PhD, Atomic Physics – University of Utah | 2019
-- MSc, Computational Astrophysics – American University of Beirut | 2013
-- BSc, Physics – Lebanese University | 2008
+#### PhD, Atomic Physics – University of Utah | 2019
+#### MSc, Computational Astrophysics – American University of Beirut | 2013
+#### BSc, Physics – Lebanese University | 2008
 
 ### CERTIFICATIONS
 - Pricing Options with Mathematical Models – Caltech (2025)
