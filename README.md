@@ -1,5 +1,5 @@
 # Adnan Nahlawi, PhD
-Email: nahlawia@gmail.com  |  Phone: 801-414-0723  | Chicago, IL |  [LinkedIn](linkedin.com/in/adnannahlawi)
+Email: nahlawia@gmail.com  |  Phone: 801-414-0723  | Chicago, IL |  [LinkedIn](https://www.linkedin.com/in/adnannahlawi/)
 
 ### PROFESSIONAL SUMMARY
 PhD in Physics with strong expertise in computational modeling and statistical analysis. Experienced in developing quantitative models and algorithms for complex systems, with certifications in financial engineering, derivatives pricing, stochastic models, and risk management. Seeking to leverage advanced problem-solving and data-driven skills in a quantitative finance role.
@@ -37,6 +37,6 @@ PhD in Physics with strong expertise in computational modeling and statistical a
 - Machine Learning – Stanford/DeepLearning.AI (2024)
 - Google Data Analytics – Google (2024)
 
-### SELECTED PUBLICATIONS     |     [Google Scholar](scholar.google.com/citations?user=bCypsF8AAAAJ&hl=en)
+### SELECTED PUBLICATIONS     |     [Google Scholar](https://www.scholar.google.com/citations?user=bCypsF8AAAAJ&hl=en)
 - Nature Communications: Floquet spin states in OLEDs (2021)
 - Phys Rev A: High-precision determination of frequency-shift enhancement factor in Rb-129Xe (2019)
