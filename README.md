@@ -11,14 +11,17 @@ PhD in Physics with strong expertise in computational modeling and statistical a
 - Conducted LIBOR regression analysis and Monte Carlo simulation for cashflow forecasts.
 - Developed anomaly detection for servers, clustering for image compression, neural networks for pattern recognition.
 - Built classification models (decision tree for edibility in food science, regression for microchips manufacturing quality).
+  
 #### Research Assistant Professor – Washington State University | 2022 – 2024
 - Developed quantitative models for high-dimensional spin dynamics, using stochastic methods.
 - Directed multi-person research projects, and mentored graduate and undergraduate researchers.
 - Developed and taught physics courses.
+  
 #### Spin Dynamics Scientist (Postdoctoral Fellow) – Washington State University | 2020 – 2022
 - Built computational models of optical pumping, improving prediction of magnetic resonance spectral shapes.
 - Developed real-time data processing/feedback tools for spin relaxation estimation and noise cancelation methods.
 - Published in high-impact journals and presented at international conferences.
+  
 #### Quantitative Analyst (Physics Lab Research Role) – University of Utah | 2015 – 2019
 - Developed a high-precision detection system for the discovery of quantum characteristics in alkali-metals using signal and Fourier processing techniques.
 - Validated multiphoton transition models via statistical testing, benchmarking theoretical outputs vs. empirical data.
