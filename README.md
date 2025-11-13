@@ -30,7 +30,7 @@ PhD in Physics with strong expertise in computational modeling and statistical a
 
 ### EDUCATION
 #### PhD, Atomic Physics – University of Utah | 2019
-#### MSc, Computational Astrophysics – American University of Beirut | 2013
+#### MSc, Astrophysics – American University of Beirut | 2013
 #### BSc, Physics – Lebanese University | 2008
 
 ### CERTIFICATIONS
